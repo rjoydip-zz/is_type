@@ -548,4 +548,4 @@ goodNumberAssertion(Promise.resolve('An unexpected string'));
 
 ## Inspired
 
-Inspired by [is](https://github.com/sindresorhus/is)
+Inspired by [is](https://github.com/sindresorhus/is) - Type check values for node.js
